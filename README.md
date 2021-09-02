@@ -1,4 +1,4 @@
-# pruebafirebase
+# Desafío - Creación de CRUD mediante Vuex
 
 ## Project setup
 ```
@@ -15,5 +15,4 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Luis Aviles Santos
